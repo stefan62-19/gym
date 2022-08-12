@@ -1,0 +1,34 @@
+[
+    {
+      "id":0,
+      "naziv":"Sve kategorije"
+    },
+    {
+      "id": 1,
+      "naziv": "Mats"
+    },
+    {
+      "id": 2,
+      "naziv": "Exercise cables"
+    },
+    {
+      "id": 3,
+      "naziv": "Push-ups"
+    },
+    {
+      "id": 4,
+      "naziv": "Abdominal roller"
+    },
+    {
+      "id": 5,
+      "naziv": "Ribbons"
+    },
+    {
+      "id": 6,
+      "naziv": "Jump rope"
+    },
+    {
+      "id": 7,
+      "naziv": "Pilates ball"
+    }
+  ]
